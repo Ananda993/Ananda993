@@ -29,12 +29,3 @@ function playSong(song) {
 
 console.log(playSong(favoriteSongs[0]));
 // Output: Now Playing: 🎧 Yellow - Coldplay
-
-
-**Summary of improvements:**
-- Added `alt` text to images for accessibility.
-- Used Markdown for the “Favorite Tracks” section heading.
-- Placed the horizontal rule appropriately.
-- Cleaned up formatting for clarity.
-
-Let me know if you want more customization or technical content added to your README!
